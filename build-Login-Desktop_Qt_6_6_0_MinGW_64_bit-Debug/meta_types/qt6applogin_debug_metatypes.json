@@ -1,0 +1,53 @@
+[
+    {
+        "classes": [
+            {
+                "className": "LoginController",
+                "object": true,
+                "qualifiedClassName": "LoginController",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "success",
+                                "type": "bool"
+                            }
+                        ],
+                        "name": "loginResult",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "login",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "password",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "login",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    },
+                    {
+                        "access": "public",
+                        "name": "Authentification"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "logincontroller.h",
+        "outputRevision": 68
+    }
+]

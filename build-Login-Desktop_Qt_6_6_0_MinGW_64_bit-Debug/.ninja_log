@@ -1,0 +1,63 @@
+# ninja log v5
+14	46	7199627368686707	Login/Main.qml	edc55e8e122a5bce
+2	76	7199558813389754	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLogin_qmlcache_loader.cpp	cbc8515613a8f4ca
+125	156	7199627369796457	.rcc/qrc_appLogin_raw_qml_0.cpp	8a1370a113bcf628
+2	76	7199558813389754	.rcc/qmlcache/appLogin_qmlcache_loader.cpp	cbc8515613a8f4ca
+1300	2425	7199623013873792	CMakeFiles/appLogin.dir/authdata.cpp.obj	49bb6b73b696b28b
+977	2330	7199625066819732	CMakeFiles/appLogin.dir/appLogin_autogen/mocs_compilation.cpp.obj	3d44b8b1442a870c
+14	46	7199627368686707	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Login/Main.qml	edc55e8e122a5bce
+368	417	7199558816808605	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_Login.cpp	1cea1d815e202533
+19	125	7199627369455481	.qt_plugins/Qt6_QmlPlugins_Imports_appLogin.cmake	f6a4cd53c46a33b1
+19	125	7199627369455481	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appLogin.cmake	f6a4cd53c46a33b1
+236	286	7199627371110121	CMakeFiles/appLogin.dir/.rcc/qrc_appLogin_raw_qml_0.cpp.obj	16ba66eab97fe916
+406	448	7199630191461363	meta_types/qt6applogin_debug_metatypes.json.gen	781181a524ff4c2c
+7	351	7199630190913700	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/appLogin_autogen/mocs_compilation.cpp	75cef4e3e46f8ecd
+7	351	7199630190913700	appLogin_autogen/timestamp	75cef4e3e46f8ecd
+371	405	7199630191461363	meta_types/appLogin_json_file_list.txt	ca7e0ba27d43f87b
+7	351	7199630190913700	appLogin_autogen/mocs_compilation.cpp	75cef4e3e46f8ecd
+130	236	7199627370535146	.rcc/qmlcache/appLogin_Main_qml.cpp	2e31819b581c2370
+7	351	7199630190913700	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/appLogin_autogen/timestamp	75cef4e3e46f8ecd
+371	405	7199630191461363	meta_types/appLogin_json_file_list.txt.timestamp	ca7e0ba27d43f87b
+368	417	7199558816808605	.rcc/qrc_qmake_Login.cpp	1cea1d815e202533
+125	156	7199627369796457	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/qrc_appLogin_raw_qml_0.cpp	8a1370a113bcf628
+130	236	7199627370535146	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/qmlcache/appLogin_Main_qml.cpp	2e31819b581c2370
+371	405	7199630191461363	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/appLogin_json_file_list.txt	ca7e0ba27d43f87b
+448	1357	7199630200976813	CMakeFiles/appLogin.dir/authentification.cpp.obj	f1213340b82f13cf
+1357	1604	7199630203405600	appLogin.exe	c3f2a7146620f8a5
+757	2827	7199558840896676	CMakeFiles/appLogin.dir/.rcc/qmlcache/appLogin_qmlcache_loader.cpp.obj	27bfeffeec779a72
+371	405	7199630191461363	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/appLogin_json_file_list.txt.timestamp	ca7e0ba27d43f87b
+406	448	7199630191461363	meta_types/qt6applogin_debug_metatypes.json	781181a524ff4c2c
+406	448	7199630191461363	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/qt6applogin_debug_metatypes.json.gen	781181a524ff4c2c
+406	448	7199630191461363	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/qt6applogin_debug_metatypes.json	781181a524ff4c2c
+1084	1184	7199623000967480	applogin_qmltyperegistrations.cpp	be03d7fac5a737dd
+1084	1184	7199623000967480	Login/appLogin.qmltypes	be03d7fac5a737dd
+1084	1184	7199623000967480	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/applogin_qmltyperegistrations.cpp	be03d7fac5a737dd
+1084	1184	7199623000967480	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Login/appLogin.qmltypes	be03d7fac5a737dd
+746	949	7199558822139883	CMakeFiles/appLogin.dir/.rcc/qrc_qmake_Login.cpp.obj	824e7f08ad7cfbea
+1292	2963	7199623019248868	CMakeFiles/appLogin.dir/applogin_qmltyperegistrations.cpp.obj	616cda5de49e8a5c
+240	1831	7199627386545223	CMakeFiles/appLogin.dir/.rcc/qmlcache/appLogin_Main_qml.cpp.obj	883b5da170e52f44
+981	4500	7199625088508577	CMakeFiles/appLogin.dir/main.cpp.obj	8211165e52c52b18
+985	2300	7199625066505923	CMakeFiles/appLogin.dir/logincontroller.cpp.obj	6ee1be33c559bb6f
+11	480	7200007720388131	appLogin_autogen/timestamp	75cef4e3e46f8ecd
+11	480	7200007720388131	appLogin_autogen/mocs_compilation.cpp	75cef4e3e46f8ecd
+11	480	7200007720388131	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/appLogin_autogen/timestamp	75cef4e3e46f8ecd
+11	480	7200007720388131	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/appLogin_autogen/mocs_compilation.cpp	75cef4e3e46f8ecd
+510	550	7200007721090317	meta_types/appLogin_json_file_list.txt	ca7e0ba27d43f87b
+510	550	7200007721090317	meta_types/appLogin_json_file_list.txt.timestamp	ca7e0ba27d43f87b
+510	550	7200007721090317	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/appLogin_json_file_list.txt	ca7e0ba27d43f87b
+510	550	7200007721090317	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/appLogin_json_file_list.txt.timestamp	ca7e0ba27d43f87b
+551	614	7200007721090317	meta_types/qt6applogin_debug_metatypes.json.gen	781181a524ff4c2c
+551	614	7200007721090317	meta_types/qt6applogin_debug_metatypes.json	781181a524ff4c2c
+551	614	7200007721090317	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/qt6applogin_debug_metatypes.json.gen	781181a524ff4c2c
+551	614	7200007721090317	C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/meta_types/qt6applogin_debug_metatypes.json	781181a524ff4c2c
+630	725	7200007722831632	CMakeFiles/appLogin.dir/.rcc/qrc_qmake_Login.cpp.obj	3908871ac7ed5ecc
+666	763	7200007723210762	CMakeFiles/appLogin.dir/.rcc/qrc_appLogin_raw_qml_0.cpp.obj	465cb9b867965f13
+647	2633	7200007741912409	CMakeFiles/appLogin.dir/authdata.cpp.obj	9259466d328d86b0
+653	2654	7200007742132091	CMakeFiles/appLogin.dir/authentification.cpp.obj	77a622700fe0466f
+615	3259	7200007748189264	CMakeFiles/appLogin.dir/appLogin_autogen/mocs_compilation.cpp.obj	7ce5b70ce20109be
+642	3274	7200007748329298	CMakeFiles/appLogin.dir/logincontroller.cpp.obj	a5e04d8a9c13988
+620	3359	7200007749179489	CMakeFiles/appLogin.dir/applogin_qmltyperegistrations.cpp.obj	2fa4436191770324
+659	3662	7200007752210954	CMakeFiles/appLogin.dir/.rcc/qmlcache/appLogin_Main_qml.cpp.obj	1ec6fb678c3bbb76
+635	3827	7200007753863748	CMakeFiles/appLogin.dir/.rcc/qmlcache/appLogin_qmlcache_loader.cpp.obj	571831458067bf82
+625	5841	7200007774008233	CMakeFiles/appLogin.dir/main.cpp.obj	d940c16d4a78797f
+5841	6162	7200007777180621	appLogin.exe	c3f2a7146620f8a5

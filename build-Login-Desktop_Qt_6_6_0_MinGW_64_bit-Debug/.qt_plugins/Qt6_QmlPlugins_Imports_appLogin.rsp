@@ -1,0 +1,14 @@
+-rootPath
+C:/MY/PROJECTS/LOGIN QtQuick/Login
+-cmake-output
+-output-file
+C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appLogin.cmake
+-importPath
+C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Login
+-importPath
+C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.6.0/mingw_64/./qml
+-qrcFiles
+C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/qmake_Login.qrc
+C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/appLogin_raw_qml_0.qrc

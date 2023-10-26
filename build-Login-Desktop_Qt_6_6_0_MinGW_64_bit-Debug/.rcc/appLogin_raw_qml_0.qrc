@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Login/">
+    <file alias="Main.qml">C:/MY/PROJECTS/LOGIN QtQuick/Login/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-73617dc3e4276225061c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Login",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-4b1771cb9ab972c2332b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-7b88d6f0d7f522e14036.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e4f176ebed279cf27220.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-836afb1483c2961ed983.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin-Debug-75d257a8eea2bcfb79cc.json",
+					"name" : "appLogin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_autogen-Debug-42affc4e7271586c2436.json",
+					"name" : "appLogin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_autogen_timestamp_deps-Debug-15f43ed0cc8e1a7f5509.json",
+					"name" : "appLogin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_qmlimportscan-Debug-62bc101a23577c5b3147.json",
+					"name" : "appLogin_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_qmllint-Debug-71ab8dfe1fbe0957693e.json",
+					"name" : "appLogin_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_qmllint_json-Debug-4b21f2e46ef9e4b5f580.json",
+					"name" : "appLogin_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_qmllint_module-Debug-312de221454375ccb2bb.json",
+					"name" : "appLogin_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_qmltyperegistration-Debug-3149a3a737b8cfb0068a.json",
+					"name" : "appLogin_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLogin_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLogin_tooling-Debug-1b9d6bcd77d10b9176a8.json",
+					"name" : "appLogin_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/MY/PROJECTS/LOGIN QtQuick/build-Login-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+		"source" : "C:/MY/PROJECTS/LOGIN QtQuick/Login"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
